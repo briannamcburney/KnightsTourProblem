@@ -1,0 +1,9 @@
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.Properties.Resources.resources
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.csproj.GenerateResource.cache
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.csproj.CoreCompileInputs.cache
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\bin\Debug\KnightsTourProblem.exe.config
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\bin\Debug\KnightsTourProblem.exe
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\bin\Debug\KnightsTourProblem.pdb
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.Form1.resources
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.exe
+E:\1)Code\.NetTechUsingC#-Code\KnightsTourProblem\ProgrammingAssignment1-BriannaMcBurney\obj\Debug\KnightsTourProblem.pdb
